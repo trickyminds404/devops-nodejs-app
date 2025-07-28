@@ -699,7 +699,7 @@ app.get('/', (req, res) => {
             <a href="#contact">Contact</a>
           </div>
           <div class="copyright">
-            &copy; 2023 Techville University. All Rights Reserved.
+            &copy; 2025 Techville University. All Rights Reserved.
           </div>
         </div>
       </footer>
