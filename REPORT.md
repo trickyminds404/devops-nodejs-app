@@ -60,6 +60,8 @@
 
       - Successfully deployed a containerized Node.js app using an automated DevOps pipeline.
       - Verified deployment by accessing the application via EC2 public IP.
+        <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/472594b3-4866-448e-86db-8b6b5565e029" />
+
   
    
 
