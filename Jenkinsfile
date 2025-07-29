@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git branch: 'develop', 
+                git branch: 'main', 
                 url: 'https://github.com/trickyminds404/devops-nodejs-app.git'
                 script {
                     // Store Git commit hash right after cloning
