@@ -38,11 +38,13 @@ Jenkins executes the following stages defined in Jenkinsfile:
 
 
  
-6. Pipeline Execution (Screenshots / Logs)
+5. Pipeline Execution (Screenshots / Logs)
 Include pipeline execution logs or screenshots showing successful builds and deployments. Example logs:
 [INFO] Docker image built and pushed to DockerHub
 [INFO] Terraform applied successfully
 [INFO] Ansible completed: Node.js app deployed to EC2
+<img width="1918" height="1032" alt="pl1" src="https://github.com/user-attachments/assets/c9efc57c-9631-44ca-8d5f-47a035af096e" />
+
 <img width="1918" height="1020" alt="pl2" src="https://github.com/user-attachments/assets/af2e439f-eba4-4b00-898e-bada6a39b533" />
 
 
@@ -50,7 +52,7 @@ Include pipeline execution logs or screenshots showing successful builds and dep
 
  
  
-Outcome
+7. Outcome
 - Successfully deployed a containerized Node.js app using an automated DevOps pipeline.
 - Verified deployment by accessing the application via EC2 public IP.
 
