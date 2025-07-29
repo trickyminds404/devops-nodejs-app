@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Get Git commit ID (short)
-GIT_COMMIT=$(git rev-parse --short HEAD)
+# Use the Git commit hash passed from Jenkins
+GIT_COMMIT=$1
 
-# Define image name using your DockerHub username
+# Define image name
 IMAGE="nageshdocker25/devops-nodejs-app:$GIT_COMMIT"
 
 echo "[INFO] Building Docker image: $IMAGE"
