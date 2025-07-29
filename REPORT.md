@@ -7,7 +7,8 @@ DevOps Pipeline Report
 - main – Production-ready code; protected branch
 - develop – Integration branch for features and fixes
 - PRs are required for merging changes from develop → main
-  <img width="508" height="571" alt="image" src="https://github.com/user-attachments/assets/b695cd25-d5b5-4193-8ff3-3e0daa5b2862" />
+  <img width="1918" height="976" alt="br-str" src="https://github.com/user-attachments/assets/3150f8f3-5ccf-41ad-b2eb-c95a78357d0a" />
+
                            
  
 3. Terraform Resource Summary
@@ -33,7 +34,7 @@ Jenkins executes the following stages defined in Jenkinsfile:
 3. Build& Push Docker Image – Runs build_and_push.sh
 4. Ansible Deploy – Installs Docker and deploys the container
 
-   <img width="984" height="108" alt="image" src="https://github.com/user-attachments/assets/b4484f8d-f879-4e7a-a465-14cd498bd3a1" />
+<img width="984" height="108" alt="image" src="https://github.com/user-attachments/assets/b4484f8d-f879-4e7a-a465-14cd498bd3a1" />
 
 
  
@@ -42,8 +43,8 @@ Include pipeline execution logs or screenshots showing successful builds and dep
 [INFO] Docker image built and pushed to DockerHub
 [INFO] Terraform applied successfully
 [INFO] Ansible completed: Node.js app deployed to EC2
-<img width="989" height="512" alt="image" src="https://github.com/user-attachments/assets/435f2d27-8cec-436e-abb3-9d499c3af6b5" />
-<img width="991" height="529" alt="image" src="https://github.com/user-attachments/assets/43a168be-622c-481a-be57-b695576a3aed" />
+<img width="1918" height="1020" alt="pl2" src="https://github.com/user-attachments/assets/af2e439f-eba4-4b00-898e-bada6a39b533" />
+
 
 
 
