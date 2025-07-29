@@ -4,7 +4,7 @@
   become: yes
 
   vars:
-    IMAGE: "nageshdocker25/devops-nodejs-app:{{ (GIT_COMMIT | default('latest'))[:7] }}"
+    IMAGE: "nageshdocker25/devops-nodejs-app:{{ (GIT_COMMIT | default('latest')) }}"
     CONTAINER_NAME: devops-app
     APP_PORT: 3000
 
