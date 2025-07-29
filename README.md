@@ -8,7 +8,7 @@ This project demonstrates a complete CI/CD pipeline for a simple Node.js applica
 - Ansible – Configuration management and deployment
 - AWS EC2 – Hosting the application
 - Node.js – Sample application
-- 
+  
 🗂️ Project Structure
 
 <img width="462" height="583" alt="project structure" src="https://github.com/user-attachments/assets/1ead00c1-4a3f-4d27-bd83-785ae29ab337" />
