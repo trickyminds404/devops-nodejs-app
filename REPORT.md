@@ -2,7 +2,7 @@
 
 1. 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝑫𝒊𝒂𝒈𝒓𝒂𝒎
    
-         <img width="900" height="315" alt="image" src="https://github.com/user-attachments/assets/e2cf3908-b6b5-495b-8965-ff9d63bb7824" />
+      <img width="2825" height="990" alt="diagram-export-7-28-2025-10_17_34-PM" src="https://github.com/user-attachments/assets/119adb4c-440e-457f-b609-d4862bcebf93" />
 
  
 2. 𝑩𝒓𝒂𝒏𝒄𝒉𝒊𝒏𝒈 𝑺𝒕𝒓𝒂𝒕𝒆𝒈𝒚
