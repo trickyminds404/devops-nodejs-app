@@ -10,7 +10,7 @@ This project demonstrates a complete CI/CD pipeline for a simple Node.js applica
 - Node.js – Sample application
 - 
 🗂️ Project Structure
-<img width="472" height="328" alt="image" src="https://github.com/user-attachments/assets/7ca52472-6403-48f0-b85c-35bb3f2d2167" />
+<img width="462" height="583" alt="project structure" src="https://github.com/user-attachments/assets/1ead00c1-4a3f-4d27-bd83-785ae29ab337" />
 
     
 📋 Prerequisites
@@ -29,7 +29,7 @@ This project demonstrates a complete CI/CD pipeline for a simple Node.js applica
    
 📌 Architecture 
 
-<img width="2825" height="990" alt="diagram-export-7-28-2025-10_17_34-PM" src="https://github.com/user-attachments/assets/9ee61c8f-928c-4155-aba4-3a07e927b84c" />
+<img width="2825" height="990" alt="architecture diagram" src="https://github.com/user-attachments/assets/ecc79bb7-6285-4496-832e-aa0b0bdb3da0" />
 
 
  
