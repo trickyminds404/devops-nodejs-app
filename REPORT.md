@@ -25,7 +25,7 @@
       
       All parameters are configurable via terraform.tfvars.
       
-      <img width="191" height="394" alt="image" src="https://github.com/user-attachments/assets/ea247a40-4ed5-4a4e-ba52-44731ba23d6e" />
+<img width="422" height="868" alt="terraaform arch" src="https://github.com/user-attachments/assets/0eef4b78-c093-4559-9982-0b87f299f8be" />
 
                                                          
 
@@ -37,7 +37,7 @@
       3. Build& Push Docker Image – Runs build_and_push.sh
       4. Ansible Deploy – Installs Docker and deploys the container
       
-      <img width="984" height="108" alt="image" src="https://github.com/user-attachments/assets/b4484f8d-f879-4e7a-a465-14cd498bd3a1" />
+<img width="1250" height="181" alt="jen-pipeline" src="https://github.com/user-attachments/assets/1e4d884e-5100-4871-a6f7-a3ad22e2dabb" />
 
 
  
