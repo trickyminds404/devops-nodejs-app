@@ -19,7 +19,7 @@ This project demonstrates a complete CI/CD pipeline for a simple Node.js applica
 - DockerHub account
 - Git, Docker, Terraform, Ansible, Jenkins (installed locally or on EC2)
 - Basic Node.js knowledge
-- 
+  
 🔁 Workflow Overview
 1. Developer pushes code to GitHub.
 2. GitHub triggers Jenkins build.
